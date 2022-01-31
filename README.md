@@ -1,0 +1,1 @@
+# Manipulando_dados_arquivo.txt_python
